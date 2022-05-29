@@ -1,11 +1,13 @@
-### Hi there 👋 
-
+# Hi there 👋 
 ## About me
-:deciduous_tree: Former environmental engineer
-- 📫 How to reach me: ...
+:seedling: Learning JavaScript and React.js at Yandex.Praktikum
+:recycle: Worked as environmental engineer for 6 years
+:computer: Technology stack:
+* JavaScript
+* HTML5
+* CSS3
+* Webpack
+* Git
+:mailbox: https://t.me/kogrms
 
-javascript
-Frontend Development:
-html5 css3 react webpack
-Other:
-git
+

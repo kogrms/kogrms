@@ -13,8 +13,8 @@
 * Webpack
 * Git
 
-:🇷🇺: 
-:🇺🇸:
+🇷🇺 
+🇺🇸
 
 :mailbox: https://t.me/kogrms
 

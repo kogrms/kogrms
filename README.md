@@ -13,10 +13,8 @@
 * Webpack
 * Git
 
-🇷🇺 
-🇺🇸
-
 :mailbox: https://t.me/kogrms
+:mailbox: kostya-babushkin@yandex.ru
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&show_icons=true&theme=vue-dark)

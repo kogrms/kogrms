@@ -13,7 +13,7 @@
 * Webpack
 * Git
 
-:mailbox: https://t.me/kogrms
+:mailbox: https://t.me/kogrms  
 :mailbox: kostya-babushkin@yandex.ru
 
 ## GitHub Stats

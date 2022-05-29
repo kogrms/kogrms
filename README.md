@@ -11,4 +11,7 @@
 * Webpack
 * Git
 
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms)](https://github.com/anuraghazra/github-readme-stats)
+
 :mailbox: https://t.me/kogrms

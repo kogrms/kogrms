@@ -13,6 +13,8 @@
 * Webpack
 * Git
 
+Languages: 🇷🇺: 🇺🇸:
+
 :mailbox: https://t.me/kogrms
 
 ## GitHub Stats

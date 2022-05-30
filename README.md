@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-🔎 Looking for a job as a junior frontend developer
+🔎 Looking for a job as a frontend developer
 
 🌱 Learning JavaScript and React at Yandex.Praktikum
 

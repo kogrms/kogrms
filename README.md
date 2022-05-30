@@ -2,7 +2,7 @@
 ## About me
 🔎: Looking for a job as a junior frontend developer
 
-🌱: Learning JavaScript and React.js at Yandex.Praktikum
+🌱: Learning JavaScript and React at Yandex.Praktikum
 
 ♻️: Worked as environmental engineer for 6 years
 
@@ -12,6 +12,13 @@
 * CSS3
 * Webpack
 * Git
+
+👩🏻‍🎓 Currently learning:
+* React - 2022;
+* Node.js - 2022;
+* TailwindCSS, Bootstrap, SCSS/LESS - late 2022;
+* TypeScript - 2023
+* Testing libraries - 2023;
 
 📱: https://t.me/kogrms  
 📧: kostya-babushkin@yandex.ru

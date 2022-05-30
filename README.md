@@ -25,4 +25,5 @@
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark)](https://github.com/kogrms/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kogrms&show_icons=true&theme=vue-dark)](https://github.com/kogrms/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kogrms&show_icons=true&theme=vue-dark)](https://github.com/kogrms/github-readme-stats)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,figma)](https://skillicons.dev)

@@ -7,7 +7,7 @@
 ♻️: Worked as environmental engineer for 6 years
 
 💻: Technology stack:
-* JavaScript
+* JavaScript (ES6)
 * HTML5
 * CSS3
 * Webpack

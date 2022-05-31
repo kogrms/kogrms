@@ -6,7 +6,8 @@
 
 ♻️ Worked as environmental engineer for 6 years
 
-💻 Tech stack:  
+💻 Tech stack:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning:

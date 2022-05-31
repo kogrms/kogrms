@@ -4,7 +4,7 @@
 
 🌱 Learning JavaScript and React at Yandex.Praktikum
 
-♻️ Worked as environmental engineer for 6 years
+♻️ Worked as an environmental engineer for 6 years
 
 💻 Tech stack:
 

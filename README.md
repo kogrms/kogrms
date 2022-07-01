@@ -13,7 +13,6 @@
 👩🏻‍🎓 Currently learning:
 * React - 2022;
 * Node.js - 2022;
-* SCSS/LESS, TailwindCSS, Bootstrap - late 2022;
 * TypeScript - 2023
 * Testing libraries - 2023;
 

@@ -8,7 +8,7 @@
 
 💻 Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,webpack,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning:
 * React - 2022;

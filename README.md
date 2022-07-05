@@ -20,4 +20,4 @@
 📧 kostya-babushkin@yandex.ru
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=prussian)](https://github.com/kogrms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark)](https://github.com/kogrms/github-readme-stats)

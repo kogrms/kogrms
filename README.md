@@ -2,7 +2,7 @@
 ## About me
 🔎 Looking for a job as a frontend developer
 
-🌱 Learning React.js at Yandex.Praktikum
+🌱 Learning JavaScript and React.js at Yandex.Praktikum
 
 ♻️ Worked as an environmental engineer for 6 years
 

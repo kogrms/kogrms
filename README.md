@@ -2,7 +2,7 @@
 ## About me
 🔎 Looking for a job as a frontend developer
 
-🌱 Learning JavaScript and React at Yandex.Praktikum
+🌱 Learning React.js at Yandex.Praktikum
 
 ♻️ Worked as an environmental engineer for 6 years
 
@@ -13,8 +13,8 @@
 👩🏻‍🎓 Currently learning:
 * React - 2022;
 * Node.js - 2022;
-* TypeScript - 2023
-* Testing libraries - 2023;
+* TypeScript - late 2022;
+* Testing libraries - late 2022;
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru

@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning:
-* React - 2022;
+* React.js - 2022;
 * Node.js - 2022;
 * TypeScript - late 2022;
 * Testing libraries - late 2022;

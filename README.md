@@ -11,11 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning:
-* React.js - 2022;
-* Vue.js - 2022;
-* Node.js - 2023;
-* TypeScript - 2023;
-* Testing libraries - 2023;
+* React.js - 2022
+* Vue.js - 2022
+* Node.js - 2023
+* TypeScript - 2023
+* Testing libraries - 2023
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru

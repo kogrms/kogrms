@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-🔎 Looking for a job as a frontend developer
+👨‍💻 Junior frontend developer
 
 🌱 Learning JavaScript and React.js at Yandex.Praktikum
 
@@ -12,9 +12,10 @@
 
 👩🏻‍🎓 Currently learning:
 * React.js - 2022;
-* Node.js - 2022;
-* TypeScript - late 2022;
-* Testing libraries - late 2022;
+* Vue.js - 2022;
+* Node.js - 2023;
+* TypeScript - 2023;
+* Testing libraries - 2023;
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru

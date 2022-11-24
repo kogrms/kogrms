@@ -2,7 +2,7 @@
 ## About me
 👨‍💻 Junior frontend developer
 
-🌱 Learning JavaScript and React.js at Yandex.Praktikum & Vue.js by myself
+🌱 Learning React.js at Yandex.Praktikum & Vue.js by myself
 
 ♻️ Worked as an environmental engineer for 6 years
 

@@ -13,10 +13,10 @@
 👩🏻‍🎓 Currently learning&plans:
 * React.js - 2022
 * Vue.js - 2022
-* Node.js - 2023
+* Node.js, Express - early 2023
+* Tailwindcss - early 2023
+* Testing libraries - early 2023
 * TypeScript - 2023
-* Testing libraries - 2023
-* Tailwindcss - 2023
 * Flutter/Dart - 2023
 
 📱 https://t.me/kogrms  

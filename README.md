@@ -13,8 +13,8 @@
 👩🏻‍🎓 Currently learning&plans:
 * React.js - 2022
 * Vue.js - 2022
-* Node.js, Express - early 2023
-* MongoDB - early 2023
+* Node.js, Express.js - 2022
+* MongoDB - 2022
 * Tailwindcss - early 2023
 * Testing libraries - early 2023
 * TypeScript - 2023

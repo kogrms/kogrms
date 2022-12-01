@@ -14,6 +14,7 @@
 * React.js - 2022
 * Vue.js - 2022
 * Node.js, Express - early 2023
+* MongoDB - early 2023
 * Tailwindcss - early 2023
 * Testing libraries - early 2023
 * TypeScript - 2023

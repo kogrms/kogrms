@@ -16,7 +16,7 @@
 * Node.js, Express.js - 2022
 * MongoDB - 2022
 * Tailwindcss - early 2023
-* Testing libraries - early 2023
+* Testing libraries - 2023
 * TypeScript - 2023
 * Flutter/Dart - 2023
 

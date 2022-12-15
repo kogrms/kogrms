@@ -10,9 +10,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
-👩🏻‍🎓 Currently learning/working/plans:
+👩🏻‍🎓 Currently learning&plans:
 * React.js - 2022
 * Vue.js - 2022
+* Nuxt.js - early 2023
 * Node.js, Express.js - early 2023
 * MongoDB - early 2023
 * Tailwindcss - early 2023

@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-👨‍💻 Junior frontend developer
+👨‍💻 Frontend developer
 
 🌱 Learning React.js at Yandex.Praktikum & Vue.js by myself
 
@@ -10,15 +10,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
-👩🏻‍🎓 Currently learning&plans:
+👩🏻‍🎓 Currently learning/working/plans:
 * React.js - 2022
 * Vue.js - 2022
-* Node.js, Express.js - 2022
-* MongoDB - 2022
-* Tailwindcss - 2023
+* Node.js, Express.js - early 2023
+* MongoDB - early 2023
+* Tailwindcss - early 2023
 * Testing libraries - 2023
 * TypeScript - 2023
-* Flutter/Dart - 2023
+* Flutter/Dart - late 2023
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru

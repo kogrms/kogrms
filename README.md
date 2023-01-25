@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-👨‍💻 Frontend developer
+👨‍💻 Frontend developer at GetStream
 
 🌱 Learning React.js at Yandex.Praktikum & Vue.js by myself
 
@@ -8,12 +8,12 @@
 
 💻 Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning&plans:
 * Vue.js
-* React.js
 * Nuxt.js
+* React.js
 * Node.js, Express.js
 * MongoDB
 * Tailwindcss

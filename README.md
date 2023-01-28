@@ -14,12 +14,13 @@
 * Vue.js
 * Nuxt.js
 * React.js
-* Node.js, Express.js
+* Node.js
+* Express.js
 * MongoDB
 * Tailwindcss
-* Testing libraries - late 2023
 * TypeScript - late 2023
 * Flutter/Dart - late 2023
+* Testing libraries - late 2023
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru  

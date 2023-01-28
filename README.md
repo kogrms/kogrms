@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-👨‍💻 Frontend developer at GetStream
+👨‍💻 Frontend developer at [GetStream](https://getstream.com/)
 
 🌱 Learning React.js at Yandex.Praktikum & Vue.js by myself
 
@@ -23,5 +23,6 @@
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru
+https://www.linkedin.com/in/kogrms/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark)](https://github.com/kogrms/github-readme-stats)

@@ -2,7 +2,7 @@
 ## About me
 👨‍💻 Frontend developer at [GetStream](https://getstream.com/)
 
-🌱 Learning React.js at Yandex.Praktikum & Vue.js by myself
+🌱 Learning React.js & Node.js at Yandex.Praktikum & Vue.js by myself
 
 ♻️ Worked as an environmental engineer for 6 years
 

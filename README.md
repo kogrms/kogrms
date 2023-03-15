@@ -8,7 +8,7 @@
 
 💻 Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,node,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning&plans:
 * Vue.js

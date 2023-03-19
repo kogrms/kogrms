@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,mongodb,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
-👩🏻‍🎓 Currently learning&plans:
+👩🏻‍🎓 Currently learning & plans:
 * Vue.js
 * Nuxt.js
 * React.js

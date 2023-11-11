@@ -2,7 +2,7 @@
 ## About me
 👨‍💻 Frontend developer at [GetStream](https://getstream.com/)
 
-🌱 Learning React.js & Node.js at Yandex.Praktikum & Vue.js by myself
+🌱 Work on Vue.js & Nuxt.js, have experience in React.js & Node.js
 
 ♻️ Worked as an environmental engineer for 6 years
 
@@ -13,14 +13,10 @@
 👩🏻‍🎓 Currently learning & plans:
 * Vue.js
 * Nuxt.js
-* React.js
-* Node.js
-* Express.js
-* MongoDB
 * Tailwindcss
-* TypeScript - late 2023
-* Flutter/Dart - late 2023
-* Testing libraries - late 2023
+* TypeScript - 2024
+* Flutter/Dart - 2024
+* Testing libraries - 2024
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru  

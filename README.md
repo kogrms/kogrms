@@ -4,16 +4,11 @@
 
 🌱 Work on Vue.js & Nuxt.js, have experience in React.js & Node.js
 
-♻️ Worked as an environmental engineer for 6 years
-
 💻 Tech stack:
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,mongodb,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
 👩🏻‍🎓 Currently learning & plans:
-* Vue.js
-* Nuxt.js
-* Tailwindcss
 * TypeScript - 2024
 * Flutter/Dart - 2024
 * Testing libraries - 2024

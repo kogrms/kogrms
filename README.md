@@ -8,10 +8,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,mongodb,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
-👩🏻‍🎓 Currently learning & plans:
+👩🏻‍🎓 Learning plans:
 * TypeScript - 2024
 * Flutter/Dart - 2024
-* Testing libraries - 2024
 
 📱 https://t.me/kogrms  
 📧 kostya-babushkin@yandex.ru  

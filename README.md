@@ -2,7 +2,7 @@
 ## About me
 👨‍💻 Frontend developer at [APIQ](https://apiq.live/)
 
-🌱 Work on Vue/Nuxt, have experience in React & Node.js
+🌱 Specializing in Vue.js / Nuxt.js, with hands-on experience in React.js & Node.js.
 
 💻 Tech stack:
 

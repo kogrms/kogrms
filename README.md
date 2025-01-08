@@ -8,9 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,mongodb,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
 
-👩🏻‍🎓 Learning plans:
-* TypeScript - late 2024
-
 📱 https://t.me/kogrms  
 📧 kostyagrandmothers@gmail.com  
 💼 https://www.linkedin.com/in/kogrms/

@@ -6,7 +6,7 @@
 
 💻 Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,nodejs,express,mongodb,tailwind,sass,js,html,css,webpack,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,ts,js,react,nodejs,express,mongodb,tailwind,sass,html,css,webpack,git,figma)](https://skillicons.dev)
 
 📱 https://t.me/kogrms  
 📧 kostyagrandmothers@gmail.com  

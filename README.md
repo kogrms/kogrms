@@ -8,8 +8,8 @@
 
 [![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")](https://vuejs.org/)
 [![Nuxt.js](https://skillicons.dev/icons?i=nuxt "Nuxt.js")](https://nuxt.com/)
-[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react "React")](https://react.dev/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express "Express.js")](https://expressjs.com/)
@@ -26,4 +26,4 @@
 📧 kostyagrandmothers@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/kogrms/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark&cache_seconds=1800)](https://github.com/kogrms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark&cache_seconds=180)](https://github.com/kogrms/github-readme-stats)

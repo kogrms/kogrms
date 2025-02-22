@@ -26,4 +26,4 @@
 📧 kostyagrandmothers@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/kogrms/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark&cache_seconds=1800)](https://github.com/kogrms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark&cache_seconds=10)](https://github.com/kogrms/github-readme-stats)

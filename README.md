@@ -8,9 +8,9 @@
 
 [![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")](https://vuejs.org/)
 [![Nuxt.js](https://skillicons.dev/icons?i=nuxt "Nuxt.js")](https://nuxt.com/)
+[![TailwindCSS](https://skillicons.dev/icons?i=pinia "Pinia")](https://pinia.vuejs.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/)
-[![TailwindCSS](https://skillicons.dev/icons?i=pinia "Pinia")](https://pinia.vuejs.org/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/)
 [![React](https://skillicons.dev/icons?i=react "React")](https://react.dev/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")](https://nodejs.org/)

@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub page!
 ## About me
-👨‍💻 Frontend developer at [APIQ](https://apiq.live/)
+👨‍💻 Frontend developer
 
 🌱 Specializing in Vue.js / Nuxt.js, with hands-on experience in React.js & Node.js.
 

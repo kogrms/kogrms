@@ -5,8 +5,6 @@ Building modern web applications, dashboards & ML infrastructure tools.
 
 ---
 
-## 🧠 About Me
-
 - 👨‍💻 4+ years of commercial experience  
 - 🏗️ Focused on scalable frontend architecture  
 - ⚡ Vue / Nuxt expert with production React experience  
@@ -14,8 +12,6 @@ Building modern web applications, dashboards & ML infrastructure tools.
 - 🌍 Remote contractor (EU / US projects)
 
 ---
-
-## 🛠 Tech Stack
 
 ### 🎯 Frontend
 [![Frontend](https://skillicons.dev/icons?i=vue,nuxt,react,ts,js,html,css,tailwind,sass)](https://skillicons.dev)

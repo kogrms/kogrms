@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Konstantin (kogrms)
+# 👋 Hi, I'm Konstantin
 
 ### 🚀 Frontend / Full-Stack Engineer  
 Building modern web applications, dashboards & ML infrastructure tools.

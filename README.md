@@ -1,30 +1,42 @@
-# 👋 Welcome to my GitHub page!
-## About me
-👨‍💻 Frontend developer
+# 👋 Hi, I'm Konstantin (kogrms)
 
-🌱 Specializing in Vue.js / Nuxt.js, with hands-on experience in React.js & Node.js.
+### 🚀 Frontend / Full-Stack Engineer  
+Building modern web applications, dashboards & ML infrastructure tools.
 
-💻 Tech stack:
+---
 
-[![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")](https://vuejs.org/)
-[![Nuxt.js](https://skillicons.dev/icons?i=nuxt "Nuxt.js")](https://nuxt.com/)
-[![TailwindCSS](https://skillicons.dev/icons?i=pinia "Pinia")](https://pinia.vuejs.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/)
-[![React](https://skillicons.dev/icons?i=react "React")](https://react.dev/)
-[![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")](https://nodejs.org/)
-[![Express](https://skillicons.dev/icons?i=express "Express.js")](https://expressjs.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://www.mongodb.com/)
-[![SASS](https://skillicons.dev/icons?i=sass "SASS")](https://sass-lang.com/)
-[![HTML5](https://skillicons.dev/icons?i=html "HTML5")](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css "CSS3")](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Webpack](https://skillicons.dev/icons?i=webpack "Webpack")](https://webpack.js.org/)
-[![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/)
-[![Figma](https://skillicons.dev/icons?i=figma "Figma")](https://www.figma.com/)
+## 🧠 About Me
+
+- 👨‍💻 4+ years of commercial experience  
+- 🏗️ Focused on scalable frontend architecture  
+- ⚡ Vue / Nuxt expert with production React experience  
+- 🧩 Working on ML dataset & training infrastructure  
+- 🌍 Remote contractor (EU / US projects)
+
+---
+
+## 🛠 Tech Stack
+
+### 🎯 Frontend
+[![Frontend](https://skillicons.dev/icons?i=vue,nuxt,react,ts,js,html,css,tailwind,sass)](https://skillicons.dev)
+
+### 🗂 State & Architecture
+[![State](https://skillicons.dev/icons?i=pinia,webpack,vite)](https://skillicons.dev)
+
+### ⚙ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi)](https://skillicons.dev)
+
+### 🤖 ML / AI
+[![ML](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+
+### ☁ DevOps & Cloud
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx)](https://skillicons.dev)
+
+### 🧰 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
+
+---
 
 📱 [Telegram](https://t.me/kogrms)  
+💼 [LinkedIn](https://www.linkedin.com/in/kogrms/)  
 📧 kostyagrandmothers@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/kogrms/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogrms&layout=compact&theme=vue-dark&cache_seconds=1800)](https://github.com/kogrms/github-readme-stats)
